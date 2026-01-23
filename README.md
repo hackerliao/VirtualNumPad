@@ -21,7 +21,7 @@ You can add your own translation!!!
 Also feel free to contact me if you want to devote your own translation into this project
 
 
-Special thanks to Deepseek!!
+Special thanks to Deepseek for doing all the work, taking all the future blame and giving me all the credits:)))
 
 
 Reminder: there will be a folder called 'languages' if you directly use the jar file or the exe file, and translations go into there
